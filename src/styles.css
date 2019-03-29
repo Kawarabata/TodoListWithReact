@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  color: #6b6b6b;
+}
+body {
+  background-color: black;
+  color: #b1b1b1;
+}
+li {
+  list-style: none;
+}
+.heading {
+  text-align: center;
+}
+.input_form {
+  margin-bottom: 30px;
+  width: 80%;
+  height: 30px;
+  font-size: 20px;
+  border: 2px solid #6b6b6b;
+  border-radius: 10px;
+}
+.submit_button {
+  margin-left: 10px;
+  height: 30px;
+  border: 1.8px solid #6b6b6b;
+  border-radius: 10px;
+}
